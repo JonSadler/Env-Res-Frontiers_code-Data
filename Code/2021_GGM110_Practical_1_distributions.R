@@ -6,7 +6,7 @@
 # In your prelab you should have done some reading about this scheme
 # The dataset is large and is all the active sites for the year 2015
 #**********************************************************************************************************
-# Updated: 27th Jan 2021
+# Updated: 27th Jan 2021 [updated for github Sept 2022]
 
 # The packages below are all needed to run this practical. If you look at the bottom right window and click on the 'packages' 
 # tab you can see if they are installed into your profile. 
